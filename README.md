@@ -24,7 +24,7 @@ https://github.com/walterarboleda
 [Libro Logica de Programacion_EfrainOviedoRegino.pdf](https://github.com/user-attachments/files/31524865/Libro.Logica.de.Programacion_EfrainOviedoRegino.pdf)
 
 
-# Phython Class Examples
+# Python Theoretical Class Examples
 
 [https://colab.research.google.com/drive/1TadRKLKP-NFZCvBXfoedytYQ9oeOpmY2?usp=sharing](https://colab.research.google.com/drive/1cFNP6Mm6hO0QXhgpme0VVwunpDnOqWEZ?usp=sharing)
 
