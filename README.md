@@ -6,6 +6,10 @@
 
 # Teacher: Walter H. Arboleda
 
+awalter@unal.edu.co
+
+https://github.com/walterarboleda
+
 
 # Course Content and Learning Activities:
 
