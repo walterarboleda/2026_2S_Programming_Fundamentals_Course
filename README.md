@@ -26,6 +26,20 @@
 
 
 
+# math libray — Mathematical functions
+
+https://docs.python.org/3/library/math.html
+
+
+
+# Download the IDE Python Software - Download Windows installer (64-bit)
+
+https://www.python.org/downloads/windows/
+
+
+
+
+
 
 # Class Presentations
 
