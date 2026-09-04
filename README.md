@@ -6,21 +6,48 @@
 
 # Teacher: Walter H. Arboleda
 
-# Content:
 
-[Contenido Programación Orientada a Objetos.pdf](https://github.com/user-attachments/files/31523765/Contenido.Programacion.Orientada.a.Objetos.pdf)
+# Course Content and Learning Activities:
+
+[2026-08-26_TemasEvaluacionFP.docx.pdf](https://github.com/user-attachments/files/31839327/2026-08-26_TemasEvaluacionFP.docx.pdf)
 
 
-# Python Notebook
-
-https://colab.research.google.com/drive/1TadRKLKP-NFZCvBXfoedytYQ9oeOpmY2?usp=sharing
+# Book Learning Python
+[Learning_Python.pdf](https://github.com/user-attachments/files/31523967/Learning_Python.pdf)
 
 
 # Libro de Logica de Programacion
 [Libro Logica de Programacion_EfrainOviedoRegino.pdf](https://github.com/user-attachments/files/31524865/Libro.Logica.de.Programacion_EfrainOviedoRegino.pdf)
 
 
-# Book Learning Python
-[Learning_Python.pdf](https://github.com/user-attachments/files/31523967/Learning_Python.pdf)
+# Phython Class Examples
+
+[https://colab.research.google.com/drive/1TadRKLKP-NFZCvBXfoedytYQ9oeOpmY2?usp=sharing](https://colab.research.google.com/drive/1cFNP6Mm6hO0QXhgpme0VVwunpDnOqWEZ?usp=sharing)
+
+
+
+# Class Presentations
+
+# Week 1
+
+#  Class 0 Presentation
+[Clase 0.pdf](https://github.com/user-attachments/files/31839389/Clase.0.pdf)
+
+#  Class 1 Presentation
+[Clase 1_Algoritmo-Variable-Math-Builtin-Entrada-Salida.pdf](https://github.com/user-attachments/files/31839401/Clase.1_Algoritmo-Variable-Math-Builtin-Entrada-Salida.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
