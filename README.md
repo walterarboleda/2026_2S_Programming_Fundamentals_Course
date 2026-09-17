@@ -13,7 +13,7 @@ https://github.com/walterarboleda
 
 # Course Content and Learning Activities:
 
-[2026-08-26_TemasEvaluacionFP.docx.pdf](https://github.com/user-attachments/files/31839327/2026-08-26_TemasEvaluacionFP.docx.pdf)
+[Presentacion-Curso-FP.pdf](https://github.com/user-attachments/files/32343293/Presentacion-Curso-FP.pdf)
 
 
 # Book Learning Python
