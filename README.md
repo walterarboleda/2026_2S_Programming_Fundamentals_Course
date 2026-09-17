@@ -1,6 +1,6 @@
 ![universidad-nacional-colombia-logo](https://github.com/user-attachments/assets/f5f1ce3d-eda8-42a2-8f97-d5b126f772cd)
 
-# Programming_Fundamentals_Course
+# Programming Fundamentals Course
 
 # Semester 2026-2S
 
