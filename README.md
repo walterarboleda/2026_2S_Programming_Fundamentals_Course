@@ -50,6 +50,7 @@ https://www.python.org/downloads/windows/
 
 # Week 1
 
+# Theoretical Class 1
 #  Class 0 Presentation
 [Clase 0.pdf](https://github.com/user-attachments/files/31839389/Clase.0.pdf)
 
@@ -60,7 +61,7 @@ https://www.python.org/downloads/windows/
 
 # Week 2
 
-#  Class 2 Examples
+#  Theoretical Class 2
 
 [Ejercicios_Python_Estructuras_Control.pdf](https://github.com/user-attachments/files/32075526/Ejercicios_Python_Estructuras_Control.pdf)
 
@@ -68,7 +69,19 @@ https://www.python.org/downloads/windows/
 [Ejercicios_Python_Estructuras_Control.docx](https://github.com/user-attachments/files/32075534/Ejercicios_Python_Estructuras_Control.docx)
 
 
+
 # Week 3
+
+
+#  Theoretical Class 3
+
+[Ejercicios_Python_Bucles_y_Control.pdf](https://github.com/user-attachments/files/32343048/Ejercicios_Python_Bucles_y_Control.pdf)
+
+[Ejercicios_Python_Bucles_y_Control.docx](https://github.com/user-attachments/files/32343059/Ejercicios_Python_Bucles_y_Control.docx)
+
+
+
+
 
 
 
