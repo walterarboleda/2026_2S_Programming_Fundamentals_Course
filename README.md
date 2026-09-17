@@ -47,6 +47,7 @@ https://www.python.org/downloads/windows/
 
 # Class Presentations
 
+
 # Week 1
 
 #  Class 0 Presentation
@@ -56,12 +57,19 @@ https://www.python.org/downloads/windows/
 [Clase 1_Algoritmo-Variable-Math-Builtin-Entrada-Salida.pdf](https://github.com/user-attachments/files/31839401/Clase.1_Algoritmo-Variable-Math-Builtin-Entrada-Salida.pdf)
 
 
+
+# Week 2
+
 #  Class 2 Examples
 
 [Ejercicios_Python_Estructuras_Control.pdf](https://github.com/user-attachments/files/32075526/Ejercicios_Python_Estructuras_Control.pdf)
 
 
 [Ejercicios_Python_Estructuras_Control.docx](https://github.com/user-attachments/files/32075534/Ejercicios_Python_Estructuras_Control.docx)
+
+
+# Week 3
+
 
 
 
