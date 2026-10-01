@@ -81,6 +81,13 @@ https://www.python.org/downloads/windows/
 
 
 
+# Week 4
+
+
+#  Theoretical Class 4
+
+[ejercicios_python_listas.pdf](https://github.com/user-attachments/files/32927911/ejercicios_python_listas.pdf)
+
 
 
 
