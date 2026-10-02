@@ -79,6 +79,7 @@ https://www.python.org/downloads/windows/
 
 [Ejercicios_Python_Bucles_y_Control.docx](https://github.com/user-attachments/files/32343059/Ejercicios_Python_Bucles_y_Control.docx)
 
+[Control-Flujo-Ciclos.pdf](https://github.com/user-attachments/files/32972204/Control-Flujo-Ciclos.pdf)
 
 
 # Week 4
@@ -86,11 +87,14 @@ https://www.python.org/downloads/windows/
 
 #  Theoretical Class 4
 
+Ejemplos de Listas
 [ejercicios_python_listas.pdf](https://github.com/user-attachments/files/32927911/ejercicios_python_listas.pdf)
 
+Ejercicios de Listas
+[Listas.pdf](https://github.com/user-attachments/files/32972200/Listas.pdf)
 
-
-
+Parcial 1
+[Parcial Fundamentos de Programacion.pdf](https://github.com/user-attachments/files/32972295/Parcial.Fundamentos.de.Programacion.pdf)
 
 
 
