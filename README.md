@@ -97,6 +97,21 @@ Parcial 1
 [Parcial Fundamentos de Programacion.pdf](https://github.com/user-attachments/files/32972295/Parcial.Fundamentos.de.Programacion.pdf)
 
 
+# Week 5
+
+
+#  Theoretical Class 5
+
+Ejemplos de Listas anidadas, Tablas, Slicing y Comprehension
+
+[Listas_Anidadas_y_Tablas_Python.pdf](https://github.com/user-attachments/files/33266815/Listas_Anidadas_y_Tablas_Python.pdf)
+
+[Listas_Anidadas_y_Tablas_Python.docx](https://github.com/user-attachments/files/33266829/Listas_Anidadas_y_Tablas_Python.docx)
+
+
+
+
+
 
 
 
