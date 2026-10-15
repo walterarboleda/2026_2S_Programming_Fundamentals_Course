@@ -55,6 +55,9 @@ https://www.python.org/downloads/windows/
 [Clase 0.pdf](https://github.com/user-attachments/files/31839389/Clase.0.pdf)
 
 #  Class 1 Presentation
+
+Guía Teórica y Práctica: Entrada y Salida
+
 [Clase 1_Algoritmo-Variable-Math-Builtin-Entrada-Salida.pdf](https://github.com/user-attachments/files/31839401/Clase.1_Algoritmo-Variable-Math-Builtin-Entrada-Salida.pdf)
 
 
@@ -62,6 +65,8 @@ https://www.python.org/downloads/windows/
 # Week 2
 
 #  Theoretical Class 2
+
+Guía Teórica y Práctica: Estructuras de Control
 
 [Ejercicios_Python_Estructuras_Control.pdf](https://github.com/user-attachments/files/32075526/Ejercicios_Python_Estructuras_Control.pdf)
 
@@ -75,6 +80,8 @@ https://www.python.org/downloads/windows/
 
 #  Theoretical Class 3
 
+Guía Teórica y Práctica: Bucles y Control
+
 [Ejercicios_Python_Bucles_y_Control.pdf](https://github.com/user-attachments/files/32343048/Ejercicios_Python_Bucles_y_Control.pdf)
 
 [Ejercicios_Python_Bucles_y_Control.docx](https://github.com/user-attachments/files/32343059/Ejercicios_Python_Bucles_y_Control.docx)
@@ -87,7 +94,7 @@ https://www.python.org/downloads/windows/
 
 #  Theoretical Class 4
 
-Ejemplos de Listas
+Guía Teórica y Práctica: Ejemplos de Listas
 [ejercicios_python_listas.pdf](https://github.com/user-attachments/files/32927911/ejercicios_python_listas.pdf)
 
 Ejercicios de Listas
@@ -102,7 +109,7 @@ Parcial 1
 
 #  Theoretical Class 5
 
-Ejemplos de Listas anidadas, Tablas, Slicing y Comprehension
+Guía Teórica y Práctica: Listas anidadas, Tablas, Slicing y Comprehension con Ejemplos Explicados
 
 [Listas_Anidadas_y_Tablas_Python.pdf](https://github.com/user-attachments/files/33266815/Listas_Anidadas_y_Tablas_Python.pdf)
 
@@ -113,6 +120,14 @@ Ejemplos de Listas anidadas, Tablas, Slicing y Comprehension
 
 
 #  Theoretical Class 6
+
+Guía Teórica y Práctica: Tuplas, Conjuntos y Diccionarios con Ejemplos Explicados
+
+[Estructuras_de_Datos_Python_Tuplas_Conjuntos_Diccionarios.pdf](https://github.com/user-attachments/files/33509561/Estructuras_de_Datos_Python_Tuplas_Conjuntos_Diccionarios.pdf)
+
+[Estructuras_de_Datos_Python_Tuplas_Conjuntos_Diccionarios.docx](https://github.com/user-attachments/files/33509573/Estructuras_de_Datos_Python_Tuplas_Conjuntos_Diccionarios.docx)
+
+
 
 
 
