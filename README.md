@@ -109,7 +109,10 @@ Ejemplos de Listas anidadas, Tablas, Slicing y Comprehension
 [Listas_Anidadas_y_Tablas_Python.docx](https://github.com/user-attachments/files/33266829/Listas_Anidadas_y_Tablas_Python.docx)
 
 
+# Week 6
 
+
+#  Theoretical Class 6
 
 
 
