@@ -20,10 +20,6 @@ https://github.com/walterarboleda
 [Learning_Python.pdf](https://github.com/user-attachments/files/31523967/Learning_Python.pdf)
 
 
-# Libro de Logica de Programacion
-[Libro Logica de Programacion_EfrainOviedoRegino.pdf](https://github.com/user-attachments/files/31524865/Libro.Logica.de.Programacion_EfrainOviedoRegino.pdf)
-
-
 # Python Theoretical Class Examples
 
 [https://colab.research.google.com/drive/1TadRKLKP-NFZCvBXfoedytYQ9oeOpmY2?usp=sharing](https://colab.research.google.com/drive/1cFNP6Mm6hO0QXhgpme0VVwunpDnOqWEZ?usp=sharing)
