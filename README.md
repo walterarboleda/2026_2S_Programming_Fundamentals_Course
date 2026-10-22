@@ -124,6 +124,18 @@ Guía Teórica y Práctica: Tuplas, Conjuntos y Diccionarios con Ejemplos Explic
 [Estructuras_de_Datos_Python_Tuplas_Conjuntos_Diccionarios.docx](https://github.com/user-attachments/files/33509573/Estructuras_de_Datos_Python_Tuplas_Conjuntos_Diccionarios.docx)
 
 
+# Week 8
+
+#  Theoretical Class 8
+
+Strings y Archivos en Python
+
+[Python_Strings_y_Archivos.pdf](https://github.com/user-attachments/files/33836859/Python_Strings_y_Archivos.pdf)
+
+
+[Python_Strings_y_Archivos.docx](https://github.com/user-attachments/files/33836869/Python_Strings_y_Archivos.docx)
+
+
 
 
 
