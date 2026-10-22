@@ -44,13 +44,13 @@ https://www.python.org/downloads/windows/
 # Class Presentations
 
 
-# Week 1
+# Week 1 and 2
 
-# Theoretical Class 1
+# Theoretical Class 1 and 2
 #  Class 0 Presentation
 [Clase 0.pdf](https://github.com/user-attachments/files/31839389/Clase.0.pdf)
 
-#  Class 1 Presentation
+#  Class 1 and 2 Presentation
 
 Guía Teórica y Práctica: Entrada y Salida
 
@@ -58,9 +58,9 @@ Guía Teórica y Práctica: Entrada y Salida
 
 
 
-# Week 2
+# Week 3
 
-#  Theoretical Class 2
+#  Theoretical Class 3
 
 Guía Teórica y Práctica: Estructuras de Control
 
@@ -71,10 +71,10 @@ Guía Teórica y Práctica: Estructuras de Control
 
 
 
-# Week 3
+# Week 4
 
 
-#  Theoretical Class 3
+#  Theoretical Class 4
 
 Guía Teórica y Práctica: Bucles y Control
 
@@ -85,10 +85,10 @@ Guía Teórica y Práctica: Bucles y Control
 [Control-Flujo-Ciclos.pdf](https://github.com/user-attachments/files/32972204/Control-Flujo-Ciclos.pdf)
 
 
-# Week 4
+# Week 5
 
 
-#  Theoretical Class 4
+#  Theoretical Class 5
 
 Guía Teórica y Práctica: Ejemplos de Listas
 [ejercicios_python_listas.pdf](https://github.com/user-attachments/files/32927911/ejercicios_python_listas.pdf)
@@ -100,10 +100,10 @@ Parcial 1
 [Parcial Fundamentos de Programacion.pdf](https://github.com/user-attachments/files/32972295/Parcial.Fundamentos.de.Programacion.pdf)
 
 
-# Week 5
+# Week 6
 
 
-#  Theoretical Class 5
+#  Theoretical Class 6
 
 Guía Teórica y Práctica: Listas anidadas, Tablas, Slicing y Comprehension con Ejemplos Explicados
 
@@ -112,10 +112,10 @@ Guía Teórica y Práctica: Listas anidadas, Tablas, Slicing y Comprehension con
 [Listas_Anidadas_y_Tablas_Python.docx](https://github.com/user-attachments/files/33266829/Listas_Anidadas_y_Tablas_Python.docx)
 
 
-# Week 6
+# Week 7
 
 
-#  Theoretical Class 6
+#  Theoretical Class 7
 
 Guía Teórica y Práctica: Tuplas, Conjuntos y Diccionarios con Ejemplos Explicados
 
