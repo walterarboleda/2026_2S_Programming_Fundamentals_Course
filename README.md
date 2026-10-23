@@ -136,7 +136,10 @@ Strings y Archivos en Python
 [Python_Strings_y_Archivos.docx](https://github.com/user-attachments/files/33836869/Python_Strings_y_Archivos.docx)
 
 
-Ejercicios para practicar sobre Archivos y Strings
+
+
+Ejercicios de Strings y Archivos para practicar
+
 
 https://iabigdata-soka-4ae9e223e32444ac5ae3d78afbd55fd9aa6da1c19d9679bf.gitlab.io/post/2024-05-18-pia_files_basic_ex/
 
